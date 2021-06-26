@@ -1,2 +1,2 @@
 # netproc
-Findout network processes
+Find out network processes
